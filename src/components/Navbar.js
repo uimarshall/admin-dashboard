@@ -16,7 +16,7 @@ function Navbar() {
                   className="navbar-toggler ml-auto mr-0"
                   type="button"
                   data-toggle="collapse"
-                  data-target="httpsmyNav"
+                  data-target="#myNav"
                   aria-controls="myNav"
                   aria-expanded="false"
                   aria-label="toggle navigation"
